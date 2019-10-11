@@ -1,4 +1,4 @@
-#The Pickle MOD - 1.12.2
+# The Pickle MOD - 1.12.2
 
 Years ago, in the time of 1.7.10 I create a mod about pickles. It was a simple mod, for a simpler time. I used The Pickle Mod to teach myself the ways of Minecraft modding.  Now in the days of 1.12.2, my children have heard the tales of the magical pickles and their effects on the creatures of Minecraft.  So they asked that I bring forth the power of the pickle to their world.
 
