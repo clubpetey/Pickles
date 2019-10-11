@@ -1,0 +1,23 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern":
+    [
+        "rpr"
+    ],
+    "key":
+    {
+        "r":
+        {
+            "item": "minecraft:redstone"
+        },
+        "p":
+        {
+            "item": "pickles:pickle"
+        }
+    },
+    "result":
+    {
+        "item": "pickles:pickle_bomb",
+        "count": 1
+    }
+}

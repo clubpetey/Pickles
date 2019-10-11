@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "pickles:block/cucumber_plant_stage_3"
+    }
+}

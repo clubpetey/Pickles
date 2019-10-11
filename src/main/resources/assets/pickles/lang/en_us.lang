@@ -1,0 +1,11 @@
+tile.cucumber_plant.name=Cucumber Plant
+tile.salt_ore.name=Salt Ore
+tile.salt_line.name=Salt Line
+
+item.cucumber.name=Cucumber
+item.pickle.name=Pickle
+item.pickle_bomb.name=Pickle Bomb
+item.pickle_sword.name=Pickle Sword
+item.salt.name=Salt
+item.pickle_seeds.name=Cucumber Seeds
+item.flour.name=Flour

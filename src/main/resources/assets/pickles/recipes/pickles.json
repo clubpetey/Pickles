@@ -1,0 +1,26 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern":
+    [
+        "ccc",
+        "csc",
+        "ccc"
+    ],
+    "key":
+    {
+        "c":
+        {
+            "item": "pickles:cucumber"
+        },
+        "s":
+        {
+			"type": "forge:ore_dict",
+			"ore": "itemSalt"
+        }
+    },
+    "result":
+    {
+        "item": "pickles:pickle",
+        "count": 8
+    }
+}

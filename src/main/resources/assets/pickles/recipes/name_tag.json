@@ -1,0 +1,26 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+    	" d ",
+        "sll",
+        " d "
+    ],
+    "key": {
+        "d": {
+			"type": "forge:ore_dict",
+			"ore": "gemDiamond"
+        },
+        "s": {
+			"type": "forge:ore_dict",
+			"ore": "string"
+        },
+        "l": {
+			"type": "forge:ore_dict",
+			"ore": "leather"
+        }
+    },
+    "result": {
+        "item": "minecraft:name_tag",
+        "count": 1
+    }
+}

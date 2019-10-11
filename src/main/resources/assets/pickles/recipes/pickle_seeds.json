@@ -1,0 +1,13 @@
+{
+    "type": "forge:ore_shapeless",
+    "ingredients": [
+        {
+            "item": "pickles:cucumber"
+        }
+    ],
+    "result":
+    {
+        "item": "pickles:pickle_seeds",
+        "count": 4
+    }
+}

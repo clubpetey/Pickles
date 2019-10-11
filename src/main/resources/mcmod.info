@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pickles",
+  "name": "The Pickles Mod",
+  "description": "A goofy mod for my kids",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ClubPetey"],
+  "credits": "Notch, The Forge Team, and other modders... PLUR",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

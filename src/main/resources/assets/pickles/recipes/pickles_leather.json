@@ -1,0 +1,25 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern":
+    [
+        "ff",
+        "fs"
+    ],
+    "key":
+    {
+        "f":
+        {
+            "item": "minecraft:rotten_flesh"
+        },
+        "s":
+        {
+			"type": "forge:ore_dict",
+			"ore": "itemSalt"
+        }
+    },
+    "result":
+    {
+        "item": "minecraft:leather",
+        "count": 3
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "ww",
+        "ww"
+    ],
+    "key": {
+        "w": {
+            "item": "minecraft:wheat"
+        }
+    },
+    "result": {
+        "item": "pickles:flour",
+        "count": 1
+    }
+}

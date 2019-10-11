@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "pickles:block/cucumber_plant_stage_3"
+    }
+}

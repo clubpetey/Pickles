@@ -1,0 +1,6 @@
+{
+    "parent": "pickles:block/salt_line_side",
+    "textures": {
+        "line": "pickles:block/salt_line_line1"
+    }
+}
